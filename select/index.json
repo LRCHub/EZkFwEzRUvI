@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "メフィスト - Mephisto",
-  "base_artist": "QUEEN BEE",
-  "createdAt": "2025-12-19T02:05:35.945121Z",
+  "base_track": "メフィスト",
+  "base_artist": "女王蜂",
+  "createdAt": "2026-01-11T10:40:42.480620Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -23,34 +23,34 @@
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "メフィスト - Mephisto",
-      "artist": "QUEEN BEE",
+      "title": "メフィスト(off vocal ver.)",
+      "artist": "女王蜂",
       "has_synced": true,
-      "path": "select/03_メフィスト_-_Mephisto_QUEEN_BEE.lrc"
+      "path": "select/03_メフィスト(off_vocal_ver.)_女王蜂.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "メフィスト",
+      "title": "メフィスト (Paused)",
       "artist": "QUEEN BEE",
       "has_synced": true,
-      "path": "select/04_メフィスト_QUEEN_BEE.lrc"
+      "path": "select/04_メフィスト_(Paused)_QUEEN_BEE.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "メフィスト(off vocal ver.)",
-      "artist": "女王蜂",
+      "title": "メフィスト - Mephisto",
+      "artist": "QUEEN BEE",
       "has_synced": true,
-      "path": "select/05_メフィスト(off_vocal_ver.)_女王蜂.lrc"
+      "path": "select/05_メフィスト_-_Mephisto_QUEEN_BEE.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "メフィスト (Paused)",
+      "title": "メフィスト",
       "artist": "QUEEN BEE",
       "has_synced": true,
-      "path": "select/06_メフィスト_(Paused)_QUEEN_BEE.lrc"
+      "path": "select/06_メフィスト_QUEEN_BEE.lrc"
     },
     {
       "id": "lrclib_7",
