@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "メフィスト",
   "base_artist": "女王蜂",
-  "createdAt": "2026-01-11T10:40:42.480620Z",
+  "createdAt": "2026-02-06T05:04:31.260529Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -67,6 +67,14 @@
       "artist": "女王蜂",
       "has_synced": true,
       "path": "select/08_メフィスト_(off_vocal_ver.)_女王蜂.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メフィスト (anime size edit)",
+      "artist": "女王蜂",
+      "has_synced": true,
+      "path": "select/09_メフィスト_(anime_size_edit)_女王蜂.lrc"
     },
     {
       "id": "petitlyrics_1",
